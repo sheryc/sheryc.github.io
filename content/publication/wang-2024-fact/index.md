@@ -2,8 +2,8 @@
 title: 'FACT: Examining the Effectiveness of Iterative Context Rewriting for Multi-fact
   Retrieval'
 authors:
-- Jinlin Wang
-- Suyuchen Wang
+- Jinlin Wang*
+- Suyuchen Wang*
 - Ziwen Xia
 - Sirui Hong
 - Yun Zhu

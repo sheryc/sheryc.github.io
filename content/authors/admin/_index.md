@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 王苏羽晨
+title: Suyuchen Wang (王苏羽晨)
 
-# Name pronunciation (optional)
-name_pronunciation: Wang Su Yu Chen
+# # Name pronunciation (optional)
+# name_pronunciation: 王苏羽晨
 
 # Full name (for SEO)
 first_name: Suyuchen
@@ -16,7 +16,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D. Candidate, Computer Science
 
 # Organizations/Affiliations to display in Biography block
 organizations:
@@ -42,6 +42,7 @@ interests:
   - Natural Language Processing
   - Large Language Models
   - Long Sequence Modeling
+  - Multimodal Large Models
 
 education:
   - area: Ph.D., Computer Science
@@ -52,7 +53,7 @@ education:
       Lab: Recherche appliquée en linguistique informatique (RALI)
       Status: Ph.D. Candidate in Computer Science
       Supervisor: [Bang Liu](https://mila.quebec/en/directory/bang-liu)
-  - area: B.Eng. (Hons.), Computer Science and Technology
+  - area: B.Eng. (Hons.), Computer Science
     institution: Beihang University
     date_start: 2016-09-01
     date_end: 2020-07-09
@@ -132,7 +133,7 @@ awards:
     summary: 'Awarded 10,000 CAD for outstanding research performance in AI.'
   - title: Honor of Outstanding Undergraduate
     date: 2020-07-01
-    awarder: Beihang University
+    awarder: The People's Government of Beijing Municipality
     icon: medal
   - title: Honor of Merit Student
     date: 2019-10-01

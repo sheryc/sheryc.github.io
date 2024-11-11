@@ -13,7 +13,8 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Teaching Assistant Experiences
+      text: Below are the courses for which I was the teaching assistant.
       filters:
         folders:
           - teaching

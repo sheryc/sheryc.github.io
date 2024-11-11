@@ -1,8 +1,8 @@
 ---
 title: 'VCR: Visual Caption Restoration'
 authors:
-- Tianyu Zhang
-- Suyuchen Wang
+- Tianyu Zhang*
+- Suyuchen Wang*
 - Lu Li
 - Ge Zhang
 - Perouz Taslakian
@@ -19,4 +19,5 @@ doi: 10.48550/ARXIV.2406.06462
 links:
 - name: URL
   url: https://doi.org/10.48550/arXiv.2406.06462
+featured: true
 ---

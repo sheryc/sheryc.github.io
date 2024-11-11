@@ -17,4 +17,5 @@ doi: 10.18653/V1/2024.FINDINGS-ACL.32
 links:
 - name: URL
   url: https://doi.org/10.18653/v1/2024.findings-acl.32
+featured: true
 ---
