@@ -1,17 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 王苏羽晨
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Wang Su Yu Chen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Suyuchen
+last_name: Wang
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +16,207 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Mila - Quebec AI Institute
+    url: https://mila.quebec/en
+  - name: Université de Montréal
+    url: https://www.umontreal.ca/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:mail@suyuchen.wang'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sheryc
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/suyuchenwang/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=fiy_i68AAAAJ
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Large Language Models
+  - Long Sequence Modeling
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D., Computer Science
+    institution: Mila - Quebec AI Institute / Université de Montréal
+    date_start: 2021-01-07
+    date_end: 2025-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Lab: Recherche appliquée en linguistique informatique (RALI)
+      Status: Ph.D. Candidate in Computer Science
+      Supervisor: [Bang Liu](https://mila.quebec/en/directory/bang-liu)
+  - area: B.Eng. (Hons.), Computer Science and Technology
+    institution: Beihang University
+    date_start: 2016-09-01
+    date_end: 2020-07-09
     summary: |
-      GPA: 3.8/4.0
+      Shenyuan Honors College / National Pilot Program for Training Top Students (Everest Project)
+      GPA: 3.71/4.0 (Ranking in Class: 4/23)
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Natural Language Processing Research Intern
+    company_name: Huawei Noah's Ark Lab, Montréal, Québec, Canada
     company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-05
+    date_end: 2024-03
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Published 3 papers on Long Context Modeling and Tool-assisted LLMs in ACL and ENLSP @ NeurIPS 2023.
+  - position: Natural Language Processing Research Intern
+    company_name: Tencent Jarvis Lab, Shenzhen, Guangdong, China
     company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2020-07
+    date_end: 2021-07
+    summary: |2-
+      Published 2 papers on Taxonomy Expansion and Taxonomy Completion in The Web Conference.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
+        description: 'Proficient in advanced programming techniques and machine learning libraries'
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: NLP & ML Frameworks
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 90
+        icon: robot
+      - name: C/C++
+        description: 'Certified Software Professional (CCF-CSP), top 9.1%'
+        percent: 75
+        icon: code-bracket
+  - name: Other Skills
+    items:
+      - name: Teaching & Mentoring
+        description: 'TA for Advanced ML and NLP courses at Université de Montréal'
+        percent: 90
+        icon: academic-cap
+      - name: Data Science & Analysis
+        description: 'Statistics, Data Visualization'
+        percent: 80
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Road Cycling
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
+        percent: 90
+        icon: bicycle
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Rhythm Games
+        description: ''
+        percent: 80
+        icon: game
 
 languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Bourses d'études dans le domaine de l'intelligence artificielle
+    date: '2021'
+    awarder: Université de Montréal
+    icon: academic-cap
+    summary: 'Awarded 10,000 CAD for outstanding research performance in AI.'
+  - title: Honor of Outstanding Undergraduate
+    date: '2019'
+    awarder: Beihang University
+    icon: medal
+  - title: Honor of Merit Student
+    date: '2019, 2018, 2017'
+    awarder: Beihang University
+    icon: star
+  - title: Grand Prize Scholarship for Outstanding Social Work Performance
+    date: '2019'
+    awarder: Beihang University
+    icon: trophy
+  - title: First Prize Scholarship for Outstanding Academic Performance
+    date: '2019'
+    awarder: Beihang University
+    icon: ribbon
+  - title: First Prize Scholarship for Outstanding Competition Performance
+    date: '2019'
+    awarder: Beihang University
+    icon: certificate
+  - title: Meritorious Winner of Mathematical Contest in Modeling (MCM)
+    date: '2018'
+    awarder: COMAP
+    icon: chart-line
+  - title: Second Prize in Beijing Contemporary Undergraduate Mathematical Contest in Modeling
+    date: '2018'
+    awarder: Beijing Education Commission
+    icon: award
+  - title: First Prize of Mathematical Modeling Contest of Beihang University
+    date: '2018'
+    awarder: Beihang University
+    icon: calculator
+  - title: Grand Prize Scholarship for Outstanding Competition Performance
+    date: '2018'
+    awarder: Beihang University
+    icon: medal
+  - title: Scholarship for Outstanding Social Work Performance
+    date: '2018'
+    awarder: Beihang University
+    icon: handshake
+  - title: Scholarship for Outstanding Social Practice Performance
+    date: '2018'
+    awarder: Beihang University
+    icon: people-group
+  - title: Third Prize in National English Competition for College Students (Band C)
+    date: '2017'
+    awarder: Beihang University
+    icon: globe
+  - title: Third Prize in Mathematical Modeling Contest of Beihang University
+    date: '2017'
+    awarder: Beihang University
+    icon: calculator
+  - title: Scholarship for Outstanding Academic Performance
+    date: '2017'
+    awarder: Beihang University
+    icon: academic-cap
+  - title: Scholarship for Outstanding Literature and Art Performance
+    date: '2017'
+    awarder: Beihang University
+    icon: music
+  - title: Scholarship for Excellent Freshman
+    date: '2016'
+    awarder: Beihang University
+    icon: star
+
+teaching:
+  - title: Teaching Assistant
+    course: IFT 6289 - Natural Language Processing with Deep Learning
+    institution: Université de Montréal
+    term: Winter 2024
+  - title: Teaching Assistant
+    course: IFT 6759 - Advanced Machine Learning Projects
+    institution: Université de Montréal
+    term: Winter 2023
+  - title: Teaching Assistant
+    course: IFT 6289 - Natural Language Processing with Deep Learning
+    institution: Université de Montréal
+    term: Winter 2022
+
+about:
+  summary: |
+    I'm Suyuchen Wang, a Ph.D. candidate at Mila and Université de Montréal. My research lies at the intersection of AI, NLP, efficient long-context processing and multimodal large models. I'm passionate about advancing the state-of-the-art in language modeling, and I love collaborating on projects that have both theoretical depth and practical impact.
+
+    I have worked extensively with large language models, tackling challenges in sequence modeling and instruction tuning. I have a lot of experience in tutoring and making assignments / exams about machine learning and state-of-the-art natural language processing through my TAships. In my spare time, I enjoy road cycling, contributing to open-source projects and taking photos.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Suyuchen Wang is a Ph.D. candidate at Mila, Quebec AI Institute, focusing on advancing Natural Language Processing and Large Language Models. His research includes exploring efficient long sequence modeling techniques and enhancing the performance of LLMs through innovative approaches. He collaborates under the supervision of [Bang Liu](https://mila.quebec/en/person/bang-liu/) and has a significant publication track record in major AI conferences.
