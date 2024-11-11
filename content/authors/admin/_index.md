@@ -34,6 +34,10 @@ profiles:
     url: https://github.com/sheryc
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/suyuchenwang/
+  - icon: "custom/hf-logo-pirate"
+    url: https://huggingface.co/sheryc
+  - icon: academicons/semantic-scholar
+    url: https://www.semanticscholar.org/author/Suyuchen-Wang/1643451565
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=fiy_i68AAAAJ
 
