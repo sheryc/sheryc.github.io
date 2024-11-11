@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-11-11
 type: landing
 
 design:
@@ -30,6 +30,12 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    content:
+      title: 'Looking for Jobs!'
+      subtitle: ''
+      text: |-
+        I am seeking Research Engineer or Research Scientist roles specializing in Long Sequence LLMs, Multimodal LLMs, and Agentic LLMs, with availability starting in early 2026. Feel free to connect with me via email or LinkedIn.
     design:
       columns: '1'
   - block: collection
@@ -53,16 +59,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-  #       Please reach out to collaborate 😃
   # - block: collection
   #   id: talks
   #   content:
