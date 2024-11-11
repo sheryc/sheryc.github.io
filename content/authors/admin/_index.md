@@ -64,15 +64,15 @@ work:
   - position: Natural Language Processing Research Intern
     company_name: Huawei Noah's Ark Lab, Montréal, Québec, Canada
     company_url: ''
-    date_start: 2023-05
-    date_end: 2024-03
+    date_start: 2023-05-01
+    date_end: 2024-03-01
     summary: |2-
       Published 3 papers on Long Context Modeling and Tool-assisted LLMs in ACL and ENLSP @ NeurIPS 2023.
   - position: Natural Language Processing Research Intern
     company_name: Tencent Jarvis Lab, Shenzhen, Guangdong, China
     company_url: ''
-    date_start: 2020-07
-    date_end: 2021-07
+    date_start: 2020-07-01
+    date_end: 2021-07-01
     summary: |2-
       Published 2 papers on Taxonomy Expansion and Taxonomy Completion in The Web Conference.
 
@@ -126,72 +126,80 @@ languages:
 
 awards:
   - title: Bourses d'études dans le domaine de l'intelligence artificielle
-    date: '2021'
+    date: 2021-11-29
     awarder: Université de Montréal
     icon: academic-cap
     summary: 'Awarded 10,000 CAD for outstanding research performance in AI.'
   - title: Honor of Outstanding Undergraduate
-    date: '2019'
+    date: 2020-07-01
     awarder: Beihang University
     icon: medal
   - title: Honor of Merit Student
-    date: '2019, 2018, 2017'
+    date: 2019-10-01
     awarder: Beihang University
     icon: star
   - title: Grand Prize Scholarship for Outstanding Social Work Performance
-    date: '2019'
+    date: 2019-10-01
     awarder: Beihang University
     icon: trophy
   - title: First Prize Scholarship for Outstanding Academic Performance
-    date: '2019'
+    date: 2019-10-01
     awarder: Beihang University
     icon: ribbon
   - title: First Prize Scholarship for Outstanding Competition Performance
-    date: '2019'
+    date: 2019-10-01
     awarder: Beihang University
     icon: certificate
-  - title: Meritorious Winner of Mathematical Contest in Modeling (MCM)
-    date: '2018'
-    awarder: COMAP
-    icon: chart-line
   - title: Second Prize in Beijing Contemporary Undergraduate Mathematical Contest in Modeling
-    date: '2018'
+    date: 2018-12-01
     awarder: Beijing Education Commission
     icon: award
   - title: First Prize of Mathematical Modeling Contest of Beihang University
-    date: '2018'
+    date: 2018-12-01
     awarder: Beihang University
     icon: calculator
   - title: Grand Prize Scholarship for Outstanding Competition Performance
-    date: '2018'
+    date: 2018-10-01
     awarder: Beihang University
     icon: medal
+  - title: Honor of Merit Student
+    date: 2018-10-01
+    awarder: Beihang University
+    icon: star
   - title: Scholarship for Outstanding Social Work Performance
-    date: '2018'
+    date: 2018-10-01
     awarder: Beihang University
     icon: handshake
   - title: Scholarship for Outstanding Social Practice Performance
-    date: '2018'
+    date: 2018-10-01
     awarder: Beihang University
     icon: people-group
-  - title: Third Prize in National English Competition for College Students (Band C)
-    date: '2017'
-    awarder: Beihang University
-    icon: globe
+  - title: Meritorious Winner of Mathematical Contest in Modeling (MCM)
+    date: 2018-05-01
+    awarder: COMAP
+    icon: chart-line
   - title: Third Prize in Mathematical Modeling Contest of Beihang University
-    date: '2017'
+    date: 2018-12-01
     awarder: Beihang University
     icon: calculator
+  - title: Third Prize in National English Competition for College Students (Band C)
+    date: 2017-10-01
+    awarder: Beihang University
+    icon: globe
+  - title: Honor of Merit Student
+    date: 2017-10-01
+    awarder: Beihang University
+    icon: star
   - title: Scholarship for Outstanding Academic Performance
-    date: '2017'
+    date: 2017-10-01
     awarder: Beihang University
     icon: academic-cap
   - title: Scholarship for Outstanding Literature and Art Performance
-    date: '2017'
+    date: 2017-10-01
     awarder: Beihang University
     icon: music
   - title: Scholarship for Excellent Freshman
-    date: '2016'
+    date: 2016-10-01
     awarder: Beihang University
     icon: star
 
