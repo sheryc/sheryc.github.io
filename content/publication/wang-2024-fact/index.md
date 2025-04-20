@@ -17,4 +17,5 @@ publication: '*Findings of The 2025 Annual Conference of the Nations of the Amer
 links:
 - name: URL
   url: https://arxiv.org/abs/2410.21012
+featured: true
 ---
