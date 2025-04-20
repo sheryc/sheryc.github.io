@@ -15,7 +15,7 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
+# Role/position/taglineR
 role: Ph.D. Candidate, Computer Science
 
 # Organizations/Affiliations to display in Biography block
@@ -66,16 +66,23 @@ education:
       GPA: 3.71/4.0 (Ranking in Class: 4/23)
 
 work:
+  - position: Multimodal LLM Visiting Researcher
+    company_name: ServiceNow Research, Montréal, Québec, Canada
+    company_url: 'https://www.linkedin.com/company/servicenow-research/'
+    date_start: 2025-01-01
+    date_end: 2025-09-01
+    summary: |2-
+      Working on vision-language model research; Published 1 paper as co-first-author in ICLR 2025, and contributed as core member to 1 ICLR 2025 paper and 1 ICML 2025 submission.
   - position: Natural Language Processing Research Intern
     company_name: Huawei Noah's Ark Lab, Montréal, Québec, Canada
-    company_url: ''
+    company_url: 'https://www.linkedin.com/company/noah-s-ark-lab/'
     date_start: 2023-05-01
     date_end: 2024-03-01
     summary: |2-
       Published 3 papers on Long Context Modeling and Tool-assisted LLMs in ACL and ENLSP @ NeurIPS 2023.
   - position: Natural Language Processing Research Intern
     company_name: Tencent Jarvis Lab, Shenzhen, Guangdong, China
-    company_url: ''
+    company_url: 'https://www.linkedin.com/company/tencentglobal/'
     date_start: 2020-07-01
     date_end: 2021-07-01
     summary: |2-
@@ -227,9 +234,7 @@ about:
     I'm Suyuchen Wang, a Ph.D. candidate at Mila and Université de Montréal. My research lies at the intersection of AI, NLP, efficient long-context processing and multimodal large models. I'm passionate about advancing the state-of-the-art in language modeling, and I love collaborating on projects that have both theoretical depth and practical impact.
 
     I have worked extensively with large language models, tackling challenges in sequence modeling and instruction tuning. I have a lot of experience in tutoring and making assignments / exams about machine learning and state-of-the-art natural language processing through my TAships. In my spare time, I enjoy road cycling, contributing to open-source projects and taking photos.
-
 ---
-
 ## About Me
 
 Suyuchen Wang is a Ph.D. candidate at Mila, Quebec AI Institute, focusing on advancing Natural Language Processing and Large Language Models. His research includes exploring efficient long sequence modeling techniques and enhancing the performance of LLMs through innovative approaches. He collaborates under the supervision of [Bang Liu](https://mila.quebec/en/person/bang-liu/) and has a significant publication track record in major AI conferences.
