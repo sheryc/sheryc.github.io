@@ -45,7 +45,7 @@ date: '2025-01-01'
 publishDate: '2025-04-20T19:38:00.035502Z'
 publication_types:
 - paper-conference
-publication: '*The Thirteenth International Conference on Learning Representations*'
+publication: '*The Thirteenth International Conference on Learning Representations (ICLR 2025)*'
 links:
 - name: URL
   url: https://openreview.net/forum?id=b1ivBPLb1n
