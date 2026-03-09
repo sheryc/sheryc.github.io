@@ -30,14 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'Looking for Jobs!'
-      subtitle: ''
-      text: |-
-        I am seeking Research Engineer or Research Scientist roles specializing in Long Sequence LLMs, Multimodal LLMs, and Agentic LLMs, with availability starting in early 2026. Feel free to connect with me via email or LinkedIn.
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:

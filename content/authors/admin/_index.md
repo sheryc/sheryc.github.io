@@ -15,8 +15,8 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/taglineR
-role: Ph.D. Candidate, Computer Science
+# Role/position/tagline
+role: Graduating Ph.D., Computer Science
 
 # Organizations/Affiliations to display in Biography block
 organizations:
@@ -42,11 +42,11 @@ profiles:
   #   url: https://huggingface.co/sheryc
 
 interests:
-  - Artificial Intelligence
-  - Natural Language Processing
   - Large Language Models
-  - Long Sequence Modeling
-  - Multimodal Large Models
+  - Vision-Language Models
+  - Long-Context & Efficient Reasoning
+  - Retrieval-Augmented Generation
+  - Open-Source ML Tools
 
 education:
   - area: Ph.D., Computer Science
@@ -231,10 +231,12 @@ teaching:
 
 about:
   summary: |
-    I'm Suyuchen Wang, a Ph.D. candidate at Mila and Université de Montréal. My research lies at the intersection of AI, NLP, efficient long-context processing and multimodal large models. I'm passionate about advancing the state-of-the-art in language modeling, and I love collaborating on projects that have both theoretical depth and practical impact.
+    Suyuchen Wang is a graduating Ph.D. candidate at Mila, Quebec AI Institute and Université de Montréal, supervised by Bang Liu. His research spans the full stack of making language models more capable: from efficient long-context modeling (Resonance RoPE, ACL 2024) to retrieval-augmented reasoning (CARE, EMNLP 2025), and more recently vision-language understanding (VCR, ICLR 2025 co-first author with Yoshua Bengio).
 
-    I have worked extensively with large language models, tackling challenges in sequence modeling and instruction tuning. I have a lot of experience in tutoring and making assignments / exams about machine learning and state-of-the-art natural language processing through my TAships. In my spare time, I enjoy road cycling, contributing to open-source projects and taking photos.
+    He has published 20+ papers at venues including ICLR, EMNLP, ACL, NeurIPS, and The Web Conference, with open-source contributions including model checkpoints on HuggingFace and a Chrome extension for arXiv-to-Markdown conversion (⭐90+). He has held research positions at ServiceNow Research, Huawei Noah's Ark Lab, and Tencent Jarvis Lab.
 ---
 ## About Me
 
-Suyuchen Wang is a Ph.D. candidate at Mila, Quebec AI Institute, focusing on advancing Natural Language Processing and Large Language Models. His research includes exploring efficient long sequence modeling techniques and enhancing the performance of LLMs through innovative approaches. He collaborates under the supervision of [Bang Liu](https://mila.quebec/en/person/bang-liu/) and has a significant publication track record in major AI conferences.
+Suyuchen Wang is a graduating Ph.D. candidate at [Mila, Quebec AI Institute](https://mila.quebec/) and [Université de Montréal](https://www.umontreal.ca/), supervised by [Bang Liu](https://mila.quebec/en/directory/bang-liu). His research spans the full stack of making language models more capable: from efficient long-context modeling ([Resonance RoPE](https://aclanthology.org/2024.findings-acl.32/), ACL 2024) to retrieval-augmented reasoning ([CARE](https://aclanthology.org/2025.emnlp-main.1075/), EMNLP 2025), and more recently vision-language understanding ([VCR](https://openreview.net/forum?id=s0Z4csHOoE), ICLR 2025 co-first author with Yoshua Bengio).
+
+He has published 20+ papers at venues including ICLR, EMNLP, ACL, NeurIPS, and The Web Conference, with open-source contributions including model checkpoints on [HuggingFace](https://huggingface.co/sheryc) and a Chrome extension for [arXiv-to-Markdown conversion](https://github.com/sheryc/arxiv-markdown-parser-plugin) (⭐90+). He has held research positions at ServiceNow Research, Huawei Noah's Ark Lab, and Tencent Jarvis Lab.
